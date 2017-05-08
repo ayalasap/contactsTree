@@ -1,3 +1,4 @@
+var $ = require('jQuery');
 var contacts = [
     {
         id:1,
